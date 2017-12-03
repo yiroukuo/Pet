@@ -1345,118 +1345,8 @@ body {
 .cid-qxhD6zxCrn .mbr-figure {
   margin: 0 auto;
 }
-.cid-qxhGIGkdUr {
-  background-image: url("../../../assets/images/background1.jpg");
-}
-.cid-qxhGIGkdUr h1 {
-  color: #616161;
-}
-.cid-qxhGIGkdUr h2,
-.cid-qxhGIGkdUr h3,
-.cid-qxhGIGkdUr p {
-  color: #767676;
-}
-.cid-qxhGIGkdUr .mbr-section-subtitle {
-  font-style: italic;
-}
-.cid-qxhKe58ttl {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/background4.jpg");
-}
-@media (min-width: 992px) {
-  .cid-qxhKe58ttl .mbr-figure {
-    padding-right: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-qxhKe58ttl .mbr-figure {
-    padding-bottom: 3rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-qxhKe58ttl .mbr-text {
-    text-align: center;
-  }
-}
-.cid-qxhOHxuzc7 {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/background4.jpg");
-}
-@media (min-width: 992px) {
-  .cid-qxhOHxuzc7 .mbr-figure {
-    padding-right: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-qxhOHxuzc7 .mbr-figure {
-    padding-bottom: 3rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-qxhOHxuzc7 .mbr-text {
-    text-align: center;
-  }
-}
-.cid-qxhS7ZpvTT {
-  background: linear-gradient(45deg, #f4a997, #a09fc0);
-}
-@media (min-width: 992px) {
-  .cid-qxhS7ZpvTT .mbr-figure {
-    padding-left: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-qxhS7ZpvTT .mbr-figure {
-    padding-top: 3rem;
-  }
-}
-.cid-qxhYQuZHY9 {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ff7f9f;
-}
-.cid-qxhYQuZHY9 .mbr-slider .carousel-control {
-  background: #1b1b1b;
-}
-.cid-qxhYQuZHY9 .mbr-slider .carousel-control-prev {
-  left: 0;
-  margin-left: 2.5rem;
-}
-.cid-qxhYQuZHY9 .mbr-slider .carousel-control-next {
-  right: 0;
-  margin-right: 2.5rem;
-}
-.cid-qxhYQuZHY9 .mbr-slider .modal-body .close {
-  background: #1b1b1b;
-}
-.cid-qxhYQuZHY9 .mbr-gallery-item > div::before {
-  content: '';
-  position: absolute;
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  background: linear-gradient(to left, #554346, #45505b) !important;
-  opacity: 0;
-  -webkit-transition: 0.2s opacity ease-in-out;
-  transition: 0.2s opacity ease-in-out;
-}
-.cid-qxhYQuZHY9 .mbr-gallery-title {
-  font-size: .9em;
-  position: absolute;
-  display: block;
-  width: 100%;
-  bottom: 0;
-  padding: 1rem;
-  color: #fff;
-  background: linear-gradient(to left, rgba(85, 67, 70, 0.85), rgba(69, 80, 91, 0.85)) !important;
-  -webkit-transition: 0.2s background ease-in-out;
-  transition: 0.2s background ease-in-out;
-}
 .cid-qCtxuXMh7X {
-  background-image: url("../../../assets/images/background10.jpg");
+  background-image: url("../../../assets/images/background1.jpg");
 }
 .cid-qCtxuXMh7X h1 {
   color: #616161;
@@ -1468,4 +1358,65 @@ body {
 }
 .cid-qCtxuXMh7X .mbr-section-subtitle {
   font-style: italic;
+}
+.cid-qCtAnonHzA {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/background4.jpg");
+}
+@media (min-width: 992px) {
+  .cid-qCtAnonHzA .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-qCtAnonHzA .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-qCtAnonHzA .mbr-text {
+    text-align: center;
+  }
+}
+.cid-qCtCBbFQYb {
+  padding-top: 90px;
+  padding-bottom: 90px;
+}
+@media (min-width: 992px) {
+  .cid-qCtCBbFQYb .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-qCtCBbFQYb .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-qCtCBbFQYb .mbr-text {
+    text-align: center;
+  }
+}
+.cid-qCtCBbFQYb H1 {
+  color: #cc2952;
+}
+.cid-qCtCBbFQYb .mbr-text,
+.cid-qCtCBbFQYb .mbr-section-btn {
+  color: #ff3366;
+}
+.cid-qCtHr0hM7z {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: linear-gradient(45deg, #f4a997, #a09fc0);
+}
+@media (min-width: 992px) {
+  .cid-qCtHr0hM7z .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-qCtHr0hM7z .mbr-figure {
+    padding-top: 3rem;
+  }
 }
